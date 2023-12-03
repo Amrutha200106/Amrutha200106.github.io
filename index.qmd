@@ -1,0 +1,38 @@
+---
+title: "sunrise"
+image: mp.jpeg
+about: 
+  template: jolla 
+  image-shape: round
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: honey@dpsols.com
+    - text: Github
+      icon: github
+      href: https://github.com/Amrutha200106 
+    
+  id: ppc
+---
+
+::: {#ppc}
+## skills
+
+coding
+
+gaming
+
+hiking
+
+## education
+
+courses taken: OOPS, Applied stat, Data Wrangling & Visualization
+
+GPA: 3.5
+
+college: University of Colorado Denver
+:::
+
+```{}
+```

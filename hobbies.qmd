@@ -1,0 +1,20 @@
+---
+title: "Hobbies"
+image: music.jpeg
+about: 
+  template: jolla 
+  image-shape: round
+  image-width: 15em
+---
+
+## Reading Books 
+
+I love reading fiction and drama.
+
+## Hiking
+
+I love hiking trails
+
+## Listening to Music 
+
+Songs are a part of my daily routine
