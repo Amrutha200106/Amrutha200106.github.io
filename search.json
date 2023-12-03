@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Amrutha200106.github.io",
+    "title": "sunrise",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "coding\ngaming\nhiking\n\n\n\ncourses taken: OOPS, Applied stat, Data Wrangling & Visualization\nGPA: 3.5\ncollege: University of Colorado Denver\n\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     Github"
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,47 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "sunrise",
+    "section": "",
+    "text": "coding\ngaming\nhiking"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "sunrise",
+    "section": "",
+    "text": "courses taken: OOPS, Applied stat, Data Wrangling & Visualization\nGPA: 3.5\ncollege: University of Colorado Denver"
+  },
+  {
+    "objectID": "hobbies.html",
+    "href": "hobbies.html",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I love reading fiction and drama."
+  },
+  {
+    "objectID": "hobbies.html#reading-books",
+    "href": "hobbies.html#reading-books",
+    "title": "Hobbies",
+    "section": "",
+    "text": "I love reading fiction and drama."
+  },
+  {
+    "objectID": "hobbies.html#hiking",
+    "href": "hobbies.html#hiking",
+    "title": "Hobbies",
+    "section": "Hiking",
+    "text": "Hiking\nI love hiking trails"
+  },
+  {
+    "objectID": "hobbies.html#listening-to-music",
+    "href": "hobbies.html#listening-to-music",
+    "title": "Hobbies",
+    "section": "Listening to Music",
+    "text": "Listening to Music\nSongs are a part of my daily routine"
   }
 ]
